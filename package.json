@@ -15,7 +15,7 @@
     "reactn": "^2.2.6",
     "reactn-devtools": "^1.1.0",
     "redux": "^4.0.5",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
