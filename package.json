@@ -11,7 +11,7 @@
     "jquery": "^3.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "reactn": "^2.2.6",
     "reactn-devtools": "^1.1.0",
     "redux": "^4.0.5",
